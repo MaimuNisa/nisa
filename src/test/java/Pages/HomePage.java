@@ -11,6 +11,8 @@ import io.appium.java_client.touch.offset.ElementOption;
 import org.openqa.selenium.support.PageFactory;
 
 public class HomePage {
+
+
      AndroidDriver <AndroidElement>driver;
       public HomePage(AndroidDriver<AndroidElement>driver) {
         this.driver= driver;
